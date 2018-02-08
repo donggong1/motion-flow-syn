@@ -22,7 +22,7 @@ year = {2017}
 
 
 ## Motion blur and motion vector
-<img src='imgs/motion_blur_and_motion_flow.jpg' width=600>  
+<img src='imgs/motion_blur_and_motion_flow.jpg' width=360>  
  
 
 ## Usage
