@@ -40,5 +40,5 @@ year = {2017}
 + Partial code in *conv_opt/* is based on the implementation for paper "J. Sun, W. Cao, Z. Xu, and J. Ponce. Learning a convolutional neural network for non-uniform motion blur removal. In CVPR, 2015."
 + Partial visualization code is from [here](http://people.seas.harvard.edu/~dqsun/publication/2014/ijcv_flow_code.zip).
 
-Update: 2 February 2018
+Update: 8 February 2018
 
