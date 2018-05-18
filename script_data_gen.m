@@ -26,7 +26,8 @@ outpath_list = {[output_path, 'train/'],...
 
 %% quantization types
 % q_type='uv_original';
-q_type='uv_basic';
+% q_type='uv_basic';
+q_type='uv_half'; % fixed in 18/05/2018
 % q_type='uv_half_multi';
 % q_type='mo'; % mag and ori
 
